@@ -1,4 +1,4 @@
-package leaningtest.io.micrometer.core.instrument.simple;
+package learningtest.io.micrometer.core.instrument.simple;
 
 import io.micrometer.core.instrument.Counter;
 import io.micrometer.core.instrument.simple.SimpleMeterRegistry;
